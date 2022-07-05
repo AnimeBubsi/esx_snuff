@@ -6,7 +6,7 @@ ESX.RegisterUsableItem('KaptenKiekko', function(source)
     local xPlayer = ESX.GetPlayerFromId(source)
 
     xPlayer.removeInventoryItem('KaptenKiekko', 1)
-     xPlayer.addInventoryItem('odenspussi', 14) 
+    xPlayer.addInventoryItem('kaptenpussi', 14)
 end)
 
 ESX.RegisterUsableItem('OdensKiekko', function(source)
