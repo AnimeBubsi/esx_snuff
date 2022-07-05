@@ -1,5 +1,7 @@
 # esx_snuff
-Simple snuff script 
+Simple snuff script
+
+Preview video = https://youtu.be/AAA8cLynbaU
 
 If you have something to say add me in discord Bubsi#6775
 
