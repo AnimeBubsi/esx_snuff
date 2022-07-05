@@ -8,4 +8,5 @@ Install
 1. Drag and drop esx_snuff file in resources
 2. put sql in database
 3. goto server.cfg and start or ensure esx_snuff
-4. restart server :)
+4. restart server
+5. and if use inventoryhud drag and drop ihud images to invenoryhud images :)
